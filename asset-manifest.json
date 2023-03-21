@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/srivastav1501/Hiring-stages/static/css/main.6c21a1d3.css",
-    "main.js": "/srivastav1501/Hiring-stages/static/js/main.267f84e8.js",
-    "static/js/787.036f400e.chunk.js": "/srivastav1501/Hiring-stages/static/js/787.036f400e.chunk.js",
-    "index.html": "/srivastav1501/Hiring-stages/index.html",
-    "main.6c21a1d3.css.map": "/srivastav1501/Hiring-stages/static/css/main.6c21a1d3.css.map",
-    "main.267f84e8.js.map": "/srivastav1501/Hiring-stages/static/js/main.267f84e8.js.map",
-    "787.036f400e.chunk.js.map": "/srivastav1501/Hiring-stages/static/js/787.036f400e.chunk.js.map"
+    "main.css": "/Hiring-stages/static/css/main.6c21a1d3.css",
+    "main.js": "/Hiring-stages/static/js/main.418fb7cb.js",
+    "static/js/787.036f400e.chunk.js": "/Hiring-stages/static/js/787.036f400e.chunk.js",
+    "index.html": "/Hiring-stages/index.html",
+    "main.6c21a1d3.css.map": "/Hiring-stages/static/css/main.6c21a1d3.css.map",
+    "main.418fb7cb.js.map": "/Hiring-stages/static/js/main.418fb7cb.js.map",
+    "787.036f400e.chunk.js.map": "/Hiring-stages/static/js/787.036f400e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c21a1d3.css",
-    "static/js/main.267f84e8.js"
+    "static/js/main.418fb7cb.js"
   ]
 }
